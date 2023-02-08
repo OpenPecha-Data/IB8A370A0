@@ -1,0 +1,67 @@
+id: c866b91165de404a967424ec889da780
+annotation_type: index
+revision: '00001'
+annotations:
+  5b2b112325d7444b9a0656fb295e0931:
+    base: 428E.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 26
+    - title: §1
+      span:
+        start: 27
+        end: 1570
+    - title: §2
+      span:
+        start: 1571
+        end: 4990
+    - title: §3
+      span:
+        start: 4991
+        end: 7645
+    - title: §4
+      span:
+        start: 7646
+        end: 10903
+    - title: §5
+      span:
+        start: 10904
+        end: 12417
+    - title: §6
+      span:
+        start: 12418
+        end: 13810
+    - title: §7
+      span:
+        start: 13811
+        end: 14408
+    - title: §8
+      span:
+        start: 14409
+        end: 14419
+    - title: §9
+      span:
+        start: 14420
+        end: 15112
+    - title: §10
+      span:
+        start: 15113
+        end: 17069
+    - title: §11
+      span:
+        start: 17070
+        end: 17657
+    - title: §12
+      span:
+        start: 17658
+        end: 18250
+    - title: §13
+      span:
+        start: 18251
+        end: 18261
+    - title: Colophon
+      span:
+        start: 18262
+        end: 18272
